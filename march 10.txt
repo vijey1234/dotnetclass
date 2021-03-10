@@ -1,0 +1,30 @@
+public int TestMethod()
+{
+//
+//
+//
+...
+return 10;
+
+}
+Access modifiers
+
+public
+private
+internal
+protected
+protected internal
+
+Return types
+
+int
+string
+boolean
+char
+void
+
+OOPs concepts
+
+Polymorphism
+1. Method overloading
+2. Method overriding
