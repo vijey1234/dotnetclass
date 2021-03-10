@@ -24,7 +24,6 @@ namespace ConsoleApp
 
             Console.WriteLine("Enter value of b: ");
 
-            // Converted string to int 
             b = Convert.ToInt32(Console.ReadLine());
 
             
