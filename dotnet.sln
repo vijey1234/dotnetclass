@@ -5,11 +5,15 @@ VisualStudioVersion = 16.0.31025.194
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp", "ConsoleApp\ConsoleApp.csproj", "{C96010E4-E822-47B7-90B4-F59DAB07936D}"
 EndProject
-Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ConsoleAppVB", "ConsoleAppVB\ConsoleAppVB.vbproj", "{BCDE6D0C-2625-4748-BAF9-3B3ABBCF5C5F}"
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "ConsoleAppVB", "ConsoleAppVB\ConsoleAppVB.vbproj", "{BCDE6D0C-2625-4748-BAF9-3B3ABBCF5C5F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspx", "Aspx\Aspx.csproj", "{45FB2582-A8D2-414F-A6B6-D755A4279E32}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Aspx", "Aspx\Aspx.csproj", "{45FB2582-A8D2-414F-A6B6-D755A4279E32}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspx1", "Aspx1\Aspx1.csproj", "{DBE66241-EC2A-4EC5-8FAB-C879AAA10669}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{D30B9234-8D23-4F8B-9596-0E26968ECDC5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspx2", "Aspx2\Aspx2.csproj", "{653E8D01-CC6C-4DD3-A123-14D3E25BD9C0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{DBE66241-EC2A-4EC5-8FAB-C879AAA10669}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DBE66241-EC2A-4EC5-8FAB-C879AAA10669}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DBE66241-EC2A-4EC5-8FAB-C879AAA10669}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D30B9234-8D23-4F8B-9596-0E26968ECDC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D30B9234-8D23-4F8B-9596-0E26968ECDC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D30B9234-8D23-4F8B-9596-0E26968ECDC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D30B9234-8D23-4F8B-9596-0E26968ECDC5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{653E8D01-CC6C-4DD3-A123-14D3E25BD9C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{653E8D01-CC6C-4DD3-A123-14D3E25BD9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{653E8D01-CC6C-4DD3-A123-14D3E25BD9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{653E8D01-CC6C-4DD3-A123-14D3E25BD9C0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
