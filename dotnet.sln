@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MVC", "MVC\MVC.csproj", "{D
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Aspx2", "Aspx2\Aspx2.csproj", "{653E8D01-CC6C-4DD3-A123-14D3E25BD9C0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API", "API\API.csproj", "{99121111-3D65-40D7-97C4-A80102975B10}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -45,6 +47,10 @@ Global
 		{653E8D01-CC6C-4DD3-A123-14D3E25BD9C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{653E8D01-CC6C-4DD3-A123-14D3E25BD9C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{653E8D01-CC6C-4DD3-A123-14D3E25BD9C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99121111-3D65-40D7-97C4-A80102975B10}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99121111-3D65-40D7-97C4-A80102975B10}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99121111-3D65-40D7-97C4-A80102975B10}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99121111-3D65-40D7-97C4-A80102975B10}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
